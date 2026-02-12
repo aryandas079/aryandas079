@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Aryan%20Das&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20CS%20Student%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Aryan%20Das&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Programmer%20Developer%20|%20EE%20Engineering%20Student%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -19,12 +19,12 @@
 ```javascript
 const aryan = {
     location: "India 🇮🇳",
-    education: "Engineering Student",
+    education: "Electrical Engineering Student",
     currentFocus: ["DSA", "C/C++", "System Design"],
     learning: ["Algorithms", "AI/ML", "Clean Code"],
-    interests: ["Mathematics", "Physics", "Programming"],
+    interests: ["Mathematics", "Artificial Intelligence", "Programming"],
     askMeAbout: ["Student Life", "Exam Prep", "C/C++ Logic"],
-    funFact: "I love connecting math, physics, and code!"
+    funFact: "I love connecting math, tech, and code!"
 };
 ```
 
@@ -34,11 +34,11 @@ const aryan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
--  **Currently Working On:** Building CS50 projects and strengthening programming fundamentals
+-  **Currently Working On:** Building projects and strengthening programming fundamentals
 -  **Open to Collaborate:** Student productivity tools and beginner-friendly software projects
 -  **Currently Learning:** Data Structures, Algorithms, and core CS concepts through hands-on coding
 -  **Ask Me About:** Engineering life, exam strategies, or getting started with tech projects
--  **2024 Goals:** Master DSA, contribute to open source, build impactful projects
+-  **2026 Goals:** Master DSA, contribute to open source, build impactful projects
 
 ---
 
@@ -112,18 +112,6 @@ const aryan = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-###  Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/aryandas079/aryandas079/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
