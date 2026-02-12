@@ -104,7 +104,6 @@ const aryan = {
 </div>
 
 ---
-
 ###  Random Dev Quote
 
 <div align="center">
@@ -112,8 +111,6 @@ const aryan = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-<div align="center">
 
 ###  *"Failure is just the way to get something EXTRAORDINARY"*
 
