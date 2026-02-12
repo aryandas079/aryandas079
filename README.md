@@ -127,7 +127,7 @@ const aryan = {
 
 <div align="center">
 
-###  *"The only way to do great work is to love what you do."*
+###  *"Failure is just the way to get something EXTRAORDINARY"*
 
 <img src="https://komarev.com/ghpvc/?username=aryandas079&color=red&style=for-the-badge&label=PROFILE+VIEWS" />
 
