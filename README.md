@@ -6,11 +6,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Student;Software+Developer;Learning+DSA+in+C%2B%2B;Building+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Student;Software+Developer;Mastering+DSA+in+C%2B%2B;Exploring+AI%2FML;Building+Innovative+Projects)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### About Me
 
@@ -18,20 +20,29 @@
 const aryan = {
     education: "B.Tech Electrical Engineering, NIT Silchar",
     location: "Silchar, Assam, India",
+    role: "Engineering Student & Developer",
     currentlyLearning: [
-        "Data Structures & Algorithms in C++",
+        "Data Structures & Algorithms (C++)",
+        "Artificial Intelligence & Machine Learning",
         "Full-Stack Web Development",
-        "Python Programming",
-        "Software Engineering"
+        "Software Engineering Principles"
+    ],
+    expertise: [
+        "Software Development",
+        "Problem Solving & DSA",
+        "Circuit Design & Electronics",
+        "Web Development"
     ],
     interests: [
-        "Software Development",
-        "Circuit Design",
-        "Problem Solving",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Embedded Systems",
         "Mathematics & Physics"
     ]
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -39,15 +50,19 @@ const aryan = {
 
 **Education:** B.Tech in Electrical Engineering at National Institute of Technology, Silchar
 
-**Currently Coding In:** Python, C, Java, JavaScript, C++, HTML, CSS
+**Programming Languages:** Python, C, C++, Java, JavaScript
 
-**Learning Focus:** Data Structures & Algorithms in C++, Web Development, Software Engineering Principles
+**Web Technologies:** HTML, CSS, JavaScript
 
-**Projects:** Building applications that solve real problems and strengthen fundamentals
+**Current Focus:** 
+- Data Structures & Algorithms in C++
+- Learning AI/ML fundamentals
+- Building full-stack web applications
+- Strengthening programming foundations
 
-**Ask Me About:** Electrical Engineering, Programming, DSA, Student Life at NIT
+**Areas of Interest:** Software Development, Artificial Intelligence, Machine Learning, Embedded Systems
 
-**Fun Fact:** I love connecting electrical engineering concepts with programming logic
+**Ask Me About:** Electrical Engineering, Programming, DSA, or Student Life at NIT
 
 ---
 
@@ -87,6 +102,7 @@ const aryan = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Design & Creative Tools**
 
@@ -100,16 +116,17 @@ const aryan = {
 
 ---
 
-### Current Learning Path
+### Learning Journey
 
 <div align="center">
 
-| Domain | Topics |
-|--------|--------|
-| **Data Structures & Algorithms** | Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching |
-| **Web Development** | Frontend Development, Responsive Design, JavaScript DOM |
-| **Python** | Data Structures, OOP, File Handling, Libraries |
-| **Electrical Engineering** | Circuit Analysis, Control Systems, Power Electronics |
+| Domain | Current Focus |
+|--------|---------------|
+| **Data Structures & Algorithms** | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Sorting & Searching |
+| **AI & Machine Learning** | Learning fundamentals, algorithms, and practical applications |
+| **Web Development** | Responsive Design, DOM Manipulation, Frontend Development |
+| **Python Programming** | Object-Oriented Programming, Data Structures, Libraries & Frameworks |
+| **Electrical Engineering** | Circuit Analysis, Control Systems, Power Electronics, Embedded Systems |
 
 </div>
 
@@ -119,7 +136,7 @@ const aryan = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
 </div>
@@ -155,9 +172,11 @@ const aryan = {
 
 <div align="center">
 
-**"Learning never exhausts the mind." - Leonardo da Vinci**
+**"The only way to do great work is to love what you do." - Steve Jobs**
 
 <img src="https://komarev.com/ghpvc/?username=aryandas079&color=red&style=for-the-badge&label=PROFILE+VIEWS" />
+
+**From [aryandas079](https://github.com/aryandas079)**
 
 </div>
 
