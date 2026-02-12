@@ -1,70 +1,136 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0D1117%26secondaryColor%3Dff0000%26height%3D150%26section%3Dheader%26text%3DARYAN%2520DAS%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn" />
-<p><strong>Software Engineering Student | Systems Programming | DSA Enthusiast</strong></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Aryan%20Das&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20CS%20Student%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+
 </div>
-
-Technical Profile
-
-I am focused on building high-performance logic and understanding computer science at the system level. Currently mastering the fundamentals through rigorous practice in C++ and Data Structures.
-
-Current Focus: Deep diving into Data Structures & Algorithms and completing the CS50 curriculum.
-
-Active Projects: Developing tools that solve real-world productivity challenges for students.
-
-Learning Path: Transitioning from core C/C++ logic to AI/ML architectures and system-level concepts.
-
-Collaboration: Open to contributing to mid-level software projects and performance-critical tools.
-
-Interests: The intersection of Physics, Mathematics, and Programmatic logic.
-
-Tech Stack & Tools
-
-<p align="left">
-<!-- Languages -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite%26color%3D990000" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite%26color%3DCC0000" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite%26color%3D990000" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite%26color%3DCC0000" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack%26color%3D990000" />
-</p>
-
-<p align="left">
-<!-- Tools & Databases -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite%26color%3D333333" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows_Terminal-4D4D4D%3Fstyle%3Dfor-the-badge%26logo%3Dwindows-terminal%26logoColor%3Dwhite%26color%3D333333" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite%26color%3D333333" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-photoshop%26logoColor%3Dwhite%26color%3D333333" />
-</p>
-
-Engineering Metrics
 
 <div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daryandas079%26show_icons%3Dtrue%26theme%3Dblood-dark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3Dff0000%26text_color%3Dffffff%26icon_color%3Dff0000" width="400px" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Daryandas079%26layout%3Dcompact%26theme%3Dblood-dark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3Dff0000%26text_color%3Dffffff" width="350px" />
-</td>
-</tr>
-</table>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Daryandas079%26theme%3Dblood-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3Dff0000%26fire%3Dff0000%26currStreakNum%3Dffffff" width="750px" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Building+Strong+Foundations;Learning+DSA+%26+Algorithms;Creating+Meaningful+Projects;Exploring+AI%2FML+Concepts)](https://git.io/typing-svg)
+
 </div>
 
-Digital Presence
+---
 
-<div align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/iam-aryandas"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26color%3D333333" /></a>
-<a href="https://www.google.com/search?q=https://x.com/iam_aryandas"><img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite%26color%3D333333" /></a>
-<a href="mailto:dasaryan715@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26color%3D333333" /></a>
-<a href="https://www.google.com/search?q=https://instagram.com/iam_aryandas"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite%26color%3D333333" /></a>
-</div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<br />
+###  About Me
 
-"Failure is an option here. If things are not failing, you are not innovating enough." — Elon Musk
+```javascript
+const aryan = {
+    location: "India 🇮🇳",
+    education: "Engineering Student",
+    currentFocus: ["DSA", "C/C++", "System Design"],
+    learning: ["Algorithms", "AI/ML", "Clean Code"],
+    interests: ["Mathematics", "Physics", "Programming"],
+    askMeAbout: ["Student Life", "Exam Prep", "C/C++ Logic"],
+    funFact: "I love connecting math, physics, and code!"
+};
+```
+
+<br clear="right"/>
+
+###  What I'm Up To
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+-  **Currently Working On:** Building CS50 projects and strengthening programming fundamentals
+-  **Open to Collaborate:** Student productivity tools and beginner-friendly software projects
+-  **Currently Learning:** Data Structures, Algorithms, and core CS concepts through hands-on coding
+-  **Ask Me About:** Engineering life, exam strategies, or getting started with tech projects
+-  **2024 Goals:** Master DSA, contribute to open source, build impactful projects
+
+---
+
+###  Connect With Me
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dff0000%26height%3D2%26section%3Dfooter" width="100%" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_aryandas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-aryandas)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iam_aryandas)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/dasaryan715/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasaryan715@gmail.com)
+
 </div>
+
+---
+
+###  Tech Stack
+
+<div align="center">
+
+#### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+#### Design & Creative
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+###  GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryandas079&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+###  Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+###  Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/aryandas079/aryandas079/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+###  *"The only way to do great work is to love what you do."*
+
+<img src="https://komarev.com/ghpvc/?username=aryandas079&color=red&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" />
