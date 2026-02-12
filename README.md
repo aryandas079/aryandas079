@@ -1,18 +1,92 @@
-# 💫 About Me:
-I’m currently working on<br>Building strong fundamentals in programming (C/C++, DSA) and developing meaningful projects for CS50 and beyond.<br><br>I’m looking to collaborate on<br>Beginner-to-intermediate level software projects, especially tools that solve real student or productivity problems.<br><br>I’m looking for help with<br>Writing clean, correct code, improving problem-solving skills, and understanding system-level concepts deeply.<br><br>I’m currently learning<br>Data Structures & Algorithms, AI/ML basics, and core computer science through hands-on projects.<br><br>Ask me about<br>Engineering student life, exam prep strategies, C/C++ logic building, or getting started with tech projects.<br><br>Fun fact<br>I enjoy learning new facts and ideas, especially when they connect mathematics, physics, and programming.
+<!-- ===================== -->
+<!--  DARK • RED • MINIMAL -->
+<!-- ===================== -->
 
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff1a1a, #b30000); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Aryan Das
+  </span>
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam_aryandas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iam-aryandas) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/dasaryan715/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/iam_aryandas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasaryan715@gmail.com) 
+<p align="center">
+  Engineering Student • C/C++ • DSA • Systems-first Thinker
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryandas079&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryandas079&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryandas079&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 🩸 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Building **strong programming fundamentals** with **C / C++ and DSA**
+- Developing **real, usable projects** (CS50 and beyond)
+- Focused on **logic, correctness, and depth** — not surface-level code
+- Curious about how **math, physics, and computation intersect**
+- Long-term goal: **high-signal engineer with system-level clarity**
+
+---
+
+## 🔥 What I’m Working On
+
+- Core **Data Structures & Algorithms**
+- Clean, readable, correct **C/C++**
+- Beginner → intermediate **software tools**
+- Foundations of **AI / ML**, learned practically
+
+---
+
+## ⚙️ Open To Collaborate On
+
+- Student-focused tools
+- Productivity or utility software
+- Learning-first, well-scoped projects
+- Codebases that value **clarity over cleverness**
+
+---
+
+## 🧠 Ask Me About
+
+- Engineering student life & exam strategy  
+- C / C++ logic building  
+- Starting CS projects the *right* way  
+- Learning CS without shortcuts
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-8b0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iam_aryandas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-660000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-aryandas)
+[![Reddit](https://img.shields.io/badge/Reddit-990000?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/dasaryan715/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iam_aryandas)
+[![Email](https://img.shields.io/badge/Email-b30000?style=flat&logo=gmail&logoColor=white)](mailto:dasaryan715@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- C • C++ • Python • Java • JavaScript  
+
+**Web / Tools**
+- HTML • Markdown • MySQL  
+- Git • Windows Terminal  
+
+**Design**
+- Figma • Canva  
+- Photoshop • Lightroom • Premiere Pro  
+
+---
+
+## 📊 GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aryandas079&theme=dark&hide_border=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=aryandas079&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🧩 Philosophy
+
+> *Depth beats speed.  
+> Fundamentals beat trends.  
+> Correctness beats hacks.*
+
