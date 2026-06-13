@@ -1,16 +1,7 @@
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td align="center" style="background-color:#556B2F; padding: 48px 0 36px 0;">
-
-<h1 style="font-family: sans-serif; font-weight: 900; font-size: 3rem; color: #ffffff; margin: 0; letter-spacing: -1px;">Aryan Das</h1>
-
-<h2 style="font-family: sans-serif; font-weight: 600; font-size: 1.3rem; color: #d4e6a0; margin: 10px 0 0 0; letter-spacing: 2px; text-transform: uppercase;">Engineer & Developer</h2>
-
-</td>
-</tr>
-</table>
+# Aryan Das
+### Engineer & Developer
 
 </div>
 
@@ -27,7 +18,7 @@
 ### About Me
 
 ```javascript
-const aryan = {
+const aryan_das = {
     education: "B.Tech Electrical Engineering, NIT Silchar",
     location: "Silchar, Assam, India",
     role: "Engineering Student & Developer",
@@ -37,7 +28,7 @@ const aryan = {
         "Full-Stack Web Development",
         "Software Engineering Principles"
     ],
-    gaining expertise on: [
+    gaining_expertise_on: [
         "Machine Learning",
         "Data Science",
         "Full Stack Development"
@@ -217,4 +208,3 @@ const aryan = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" /> 
 
 
- 
