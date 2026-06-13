@@ -1,12 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Aryan%20Das&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20@%20NIT%20Silchar&descAlignY=55&descAlign=50" />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" style="background-color:#556B2F; padding: 48px 0 36px 0;">
+
+<h1 style="font-family: sans-serif; font-weight: 900; font-size: 3rem; color: #ffffff; margin: 0; letter-spacing: -1px;">Aryan Das</h1>
+
+<h2 style="font-family: sans-serif; font-weight: 600; font-size: 1.3rem; color: #d4e6a0; margin: 10px 0 0 0; letter-spacing: 2px; text-transform: uppercase;">Engineer & Developer</h2>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Student;Software+Developer;Mastering+DSA+in+C%2B%2B;Exploring+AI%2FML;Building+Innovative+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Student;Full+Stack+Developer;Machine+Learning+Explorer;Building+with+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,17 +37,17 @@ const aryan = {
         "Full-Stack Web Development",
         "Software Engineering Principles"
     ],
-    expertise: [
-        "Software Development",
-        "Problem Solving & DSA",
-        "Circuit Design & Electronics",
-        "Web Development"
+    gaining expertise on: [
+        "Machine Learning",
+        "Data Science",
+        "Full Stack Development"
     ],
     interests: [
         "Artificial Intelligence",
-        "Machine Learning",
-        "Embedded Systems",
-        "Mathematics & Physics"
+        "Generative AI",
+        "Data Science & Analytics",
+        "Full Stack Development",
+        "UI/UX & Creative Design"
     ]
 };
 ```
@@ -50,9 +60,15 @@ const aryan = {
 
 **Education:** B.Tech in Electrical Engineering at National Institute of Technology, Silchar
 
-**Programming Languages:** Python, C, C++, Java, JavaScript
+**Programming Languages:** C, C++, Python, JavaScript, TypeScript
 
-**Web Technologies:** HTML, CSS, JavaScript
+**Web Technologies:** HTML5, CSS3, TailWind CSS
+
+**Database:** PostgreSQL
+
+**Web Frameworks & Libraries:** Node.js, Express.js, React, Next.js
+
+**Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-Learn
 
 **Current Focus:** 
 - Data Structures & Algorithms in C++
@@ -60,9 +76,7 @@ const aryan = {
 - Building full-stack web applications
 - Strengthening programming foundations
 
-**Areas of Interest:** Software Development, Artificial Intelligence, Machine Learning, Embedded Systems
-
-**Ask Me About:** Electrical Engineering, Programming, DSA, or Student Life at NIT
+**Areas of Interest:** Artificial Intelligence, Generative AI, Data Science, Full Stack Development
 
 ---
 
@@ -89,17 +103,37 @@ const aryan = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Web Technologies**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Tools & Databases**
+**Frameworks & Libraries**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Python Libraries**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -180,4 +214,7 @@ const aryan = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" /> 
+
+
+ 
