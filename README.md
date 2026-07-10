@@ -161,14 +161,14 @@ const aryan_das = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryandas079&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
@@ -205,6 +205,4 @@ const aryan_das = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" /> 
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" />
