@@ -53,7 +53,7 @@ const aryan_das = {
 
 **Programming Languages:** C, C++, Python, JavaScript, TypeScript
 
-**Web Technologies:** HTML5, CSS3, TailWind CSS
+**Web Technologies:** HTML5, CSS3, Tailwind CSS
 
 **Database:** PostgreSQL
 
@@ -162,7 +162,7 @@ const aryan_das = {
 <div align="center">
   
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
 </div>
 
