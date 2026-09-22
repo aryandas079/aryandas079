@@ -169,17 +169,6 @@ const aryan_das = {
 <div align="center">
   
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryandas079&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-### GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=aryandas079&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
