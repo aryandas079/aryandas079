@@ -160,14 +160,25 @@ const aryan_das = {
 ### GitHub Statistics
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
 </div>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://ghchart.rshah.org/F85D7F/aryandas079" alt="Aryan's GitHub contribution chart" />
+<div align="center">
+
+<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
+
+</div>
+
+---
+
+### Contribution Graph
+
+<div align="center">
+
+<img width="90%" src="https://ghchart.rshah.org/F85D7F/aryandas079" alt="Aryan's GitHub contribution chart" />
 
 </div>
 
