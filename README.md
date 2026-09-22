@@ -11,7 +11,6 @@
 
 </div>
 
-
 ---
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -166,7 +165,7 @@ const aryan_das = {
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="./assets/highlights.png" alt="Aryan's GitHub Highlights" />
+<img width="49%" src="https://github-profile-trophies.vercel.app/?username=aryandas079&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3" alt="Aryan's GitHub Trophies" />
 
 </div>
 
@@ -176,7 +175,7 @@ const aryan_das = {
 
 <div align="center">
 
-<img width="100%" src="./assets/contribution-graph.png" alt="Aryan's GitHub Contribution Activity" />
+<img width="100%" src="https://activity-graph.vercel.app/graph?username=aryandas079&theme=radical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Aryan's GitHub Contribution Activity" />
 
 </div>
 
