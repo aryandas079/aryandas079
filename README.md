@@ -166,9 +166,23 @@ const aryan_das = {
 
 </div>
 
-<div align="center">
-  
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="https://ghchart.rshah.org/F85D7F/aryandas079" alt="Aryan's GitHub contribution chart" />
+
+</div>
+
+---
+
+### GitHub Trophies
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/aryandas079?style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/aryandas079?style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aryandas079&label=Public%20Repos&query=public_repos&style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+
+<br/>
+<sub>Full pixel-trophy graphics need a personal Vercel deploy — shared instance is rate-limited right now. Say the word and I'll walk you through it.</sub>
 
 </div>
 
