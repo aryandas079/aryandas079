@@ -7,9 +7,10 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Undergraduate;Full+Stack+Developer;Machine+Learning+Explorer;Building+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Student;Full+Stack+Developer;Machine+Learning+Explorer;Building+with+AI)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
@@ -165,7 +166,7 @@ const aryan_das = {
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="./assets/trophies-card.svg" alt="Aryan's GitHub trophies" />
+<img width="49%" src="./assets/highlights.png" alt="Aryan's GitHub Highlights" />
 
 </div>
 
@@ -175,7 +176,7 @@ const aryan_das = {
 
 <div align="center">
 
-<img width="100%" src="./assets/contribution-graph.svg" alt="Aryan's GitHub contribution activity over the last year" />
+<img width="100%" src="./assets/contribution-graph.png" alt="Aryan's GitHub Contribution Activity" />
 
 </div>
 
