@@ -164,11 +164,8 @@ const aryan_das = {
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="./assets/trophies-card.svg" alt="Aryan's GitHub trophies" />
 
 </div>
 
@@ -178,22 +175,7 @@ const aryan_das = {
 
 <div align="center">
 
-<img width="90%" src="https://ghchart.rshah.org/F85D7F/aryandas079" alt="Aryan's GitHub contribution chart" />
-
-</div>
-
----
-
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/aryandas079?style=for-the-badge&color=F85D7F&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/aryandas079?style=for-the-badge&color=F85D7F&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aryandas079&label=Public%20Repos&query=public_repos&style=for-the-badge&color=F85D7F&labelColor=0D1117" />
-
-<br/>
-<sub>Full pixel-trophy graphics need a personal Vercel deploy — shared instance is rate-limited right now. Say the word and I'll walk you through it.</sub>
+<img width="100%" src="./assets/contribution-graph.svg" alt="Aryan's GitHub contribution activity over the last year" />
 
 </div>
 
