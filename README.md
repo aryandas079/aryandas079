@@ -51,7 +51,7 @@ const aryan_das = {
 
 **Education:** B.Tech in Electrical Engineering at National Institute of Technology, Silchar
 
-**Programming Languages:** C, C++, Python, JavaScript, TypeScript
+**Programming Languages:** C, C++, C#, Python, JavaScript, TypeScript, Kotlin
 
 **Web Technologies:** HTML5, CSS3, Tailwind CSS
 
@@ -93,9 +93,11 @@ const aryan_das = {
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Web Technologies**
 
@@ -136,22 +138,6 @@ const aryan_das = {
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
----
-
-### Learning Journey
-
-<div align="center">
-
-| Domain | Current Focus |
-|--------|---------------|
-| **Data Structures & Algorithms** | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Sorting & Searching |
-| **AI & Machine Learning** | Learning fundamentals, algorithms, and practical applications |
-| **Web Development** | Responsive Design, DOM Manipulation, Frontend Development |
-| **Python Programming** | Object-Oriented Programming, Data Structures, Libraries & Frameworks |
-| **Electrical Engineering** | Circuit Analysis, Control Systems, Power Electronics, Embedded Systems |
 
 </div>
 
