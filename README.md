@@ -1,3 +1,5 @@
+<img align="right" width="120" src="https://kappa.lol/bB1Ll7.svg" alt="Aryan Das" />
+
 <div align="center">
 
 # Aryan Das
@@ -121,7 +123,7 @@ const aryan_das = {
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryandas079&theme=radical" alt="Aryan's GitHub Contribution Activity" />
 
-<img width="100%" src="https://kappa.lol/ZBTOLe.svg" alt="Aryan's Real GitHub Contribution Snake" />
+<img width="100%" src="https://kappa.lol/a83YCv.svg" alt="Aryan's Real GitHub Contribution Snake" />
 
 </div>
 
