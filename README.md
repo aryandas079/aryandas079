@@ -1,5 +1,3 @@
-<img align="right" width="120" src="https://kappa.lol/bB1Ll7.svg" alt="Aryan Das" />
-
 <div align="center">
 
 # Aryan Das
