@@ -105,10 +105,10 @@ const aryan_das = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="Aryan's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&cache_seconds=1800" alt="Aryan's GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="Aryan's GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Aryan's Top Languages" />
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&cache_seconds=1800" alt="Aryan's Top Languages" />
 <img width="49%" src="https://kappa.lol/5QUr0v.svg" alt="Aryan's GitHub Trophies" />
 
 </div>
