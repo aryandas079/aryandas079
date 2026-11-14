@@ -80,10 +80,10 @@ const aryan_das = {
 [![Portfolio](https://kappa.lol/xS2Smd.svg)](https://aryandas079.github.io/my_website/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iam_aryandas/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iam-aryandas)
-[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/iam_aryandas)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iam_aryandas)
+[![Reddit](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/dasaryan715/)
+[![LeetCode](https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dasaryan/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/iam_aryandas)
-[![Reddit](https://go-skill-icons.vercel.app/api/icons?i=reddit)](https://www.reddit.com/user/dasaryan715/)
-[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/dasaryan/)
 [![ORCID](https://kappa.lol/PyXCyY.svg)](https://orcid.org/0009-0009-9012-4034)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dasaryan715@gmail.com)
 
