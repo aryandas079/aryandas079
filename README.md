@@ -1,4 +1,4 @@
-<div align="center">
+r<div align="center">
 
 # Aryan Das
 ### Engineer & Developer
@@ -81,7 +81,6 @@ const aryan_das = {
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iam_aryandas/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iam-aryandas)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/iam_aryandas)
-[![Reddit](assets/reddit.png)](https://www.reddit.com/user/dasaryan715/)
 [![LeetCode](assets/leetcode.png)](https://leetcode.com/u/dasaryan/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/iam_aryandas)
 [![ORCID](https://kappa.lol/PyXCyY.svg)](https://orcid.org/0009-0009-9012-4034)
