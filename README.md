@@ -81,7 +81,7 @@ const aryan_das = {
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iam_aryandas/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iam-aryandas)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/iam_aryandas)
-[![LeetCode]([assets/leetcode.png](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png))](https://leetcode.com/u/dasaryan/)
+[![LeetCode](https://thesvg.org/icons/leetcode/default.svg)](https://leetcode.com/u/dasaryan/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/iam_aryandas)
 [![ORCID](https://kappa.lol/PyXCyY.svg)](https://orcid.org/0009-0009-9012-4034)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dasaryan715@gmail.com)
