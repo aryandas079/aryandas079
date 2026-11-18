@@ -40,7 +40,8 @@ const aryan_das = {
         "Generative AI",
         "Data Science & Analytics",
         "Full Stack Development",
-        "UI/UX & Creative Design"
+        "UI/UX & Creative Design", 
+        "Creative Softwares"
     ]
 };
 ```
