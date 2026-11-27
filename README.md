@@ -128,12 +128,11 @@ const aryan_das = {
 </td>
 
 <td align="center">
-<strong>Database, Tools & IDEs</strong>
+<strong>Development Tools & IDEs</strong>
 <br/><br/>
-<img width="300" src="https://skillicons.dev/icons?i=postgres,git,github,vscode,visualstudio,idea,clion&theme=dark&perline=7" alt="Database and IDEs"/>
+<img width="300" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,clion&theme=dark&perline=6" alt="Development Tools and IDEs"/>
 <br/><br/>
 </td>
-</tr>
 
 <tr>
 <td align="center">
