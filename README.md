@@ -91,111 +91,94 @@ const aryan_das = {
 
 ---
 
+
 ### Tech Stack
 
 <div align="center">
+<table width="100%">
 
-<table>
 <tr>
-<td width="50%" align="center" valign="top">
-
-**Programming Languages**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,kotlin&theme=dark&perline=7" alt="Programming Languages" />
-
+<td width="50%" align="center">
+<strong>Programming Languages</strong>
+<br/><br/>
+<img width="300" src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,kotlin&theme=dark&perline=7" alt="Programming Languages"/>
+<br/><br/>
 </td>
-<td width="50%" align="center" valign="top">
 
-**Web Development**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express&theme=dark&perline=7" alt="Web Development" />
-
+<td width="50%" align="center">
+<strong>Web Development</strong>
+<br/><br/>
+<img width="340" src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,postgres&theme=dark&perline=8" alt="Web Development"/>
+<br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="top">
-
-**Python Libraries & Machine Learning**
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" title="Matplotlib" />
-<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn" title="Seaborn" />
-<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="42" height="42" alt="SciPy" title="SciPy" />
-<img src="https://skillicons.dev/icons?i=sklearn" width="42" height="42" alt="Scikit-Learn" title="Scikit-Learn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" title="Jupyter" />
-
+<td align="center">
+<strong>Python Libraries & Machine Learning</strong>
+<br/><br/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy"/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
+<br/><br/>
 </td>
-<td align="center" valign="top">
 
-**Database, Tools & IDEs**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,visualstudio,idea,clion&theme=dark&perline=7" alt="Database and Development Tools" />
-
+<td align="center">
+<strong>Database, Tools & IDEs</strong>
+<br/><br/>
+<img width="300" src="https://skillicons.dev/icons?i=postgres,git,github,vscode,visualstudio,idea,clion&theme=dark&perline=7" alt="Database and IDEs"/>
+<br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="top">
-
-**Design & Creative Software**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ps,pr,figma&theme=dark" height="48" alt="Photoshop, Premiere Pro and Figma" />
-<img src="https://img.icons8.com/color/96/adobe-lightroom.png" width="48" height="48" alt="Lightroom" title="Lightroom" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" title="Canva" />
-
+<td align="center">
+<strong>Design & Creative Software</strong>
+<br/><br/>
+<img height="40" src="https://skillicons.dev/icons?i=ps,pr&theme=dark" alt="Photoshop and Premiere Pro"/>
+<img width="40" height="40" src="https://img.icons8.com/color/96/adobe-lightroom.png" alt="Lightroom"/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva"/>
+<br/><br/>
 </td>
-<td align="center" valign="top">
 
-**Platforms & Operating Systems**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell,dotnet&theme=dark&perline=6" alt="Platforms and Operating Systems" />
-
+<td align="center">
+<strong>Platforms & Operating Systems</strong>
+<br/><br/>
+<img width="125" src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark" alt="Windows, Linux and Ubuntu"/>
+<br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="top">
-
-**Engineering & Simulation**
-
+<td align="center">
+<strong>Engineering & Simulation</strong>
+<br/><br/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"/>
 <br/>
-
-<img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" />
-
-<br/>
-
-MATLAB · Simulink · LTspice · AutoCAD
-
+<sub>MATLAB · Simulink</sub>
+<br/><br/>
 </td>
-<td align="center" valign="top">
 
-**Game Development**
-
+<td align="center">
+<strong>Game Development</strong>
+<br/><br/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal Engine"/>
 <br/>
-
-<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Unreal Engine and Unity" />
-
+<sub>Unreal Engine</sub>
+<br/><br/>
 </td>
 </tr>
+
 </table>
-
 </div>
 
 ---
+
 
 ### GitHub Statistics
 
