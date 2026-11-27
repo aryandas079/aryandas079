@@ -4,13 +4,19 @@
 # Aryan Das
 ### Engineer & Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Undergraduate;Full+Stack+Developer;Machine+Learning+Explorer;Building+with+AI)](https://github.com/aryandas079)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Electrical+Engineering+Undergraduate;Full+Stack+Developer;Machine+Learning+Explorer;Building+with+AI)](https://git.io/typing-svg)
 
 </div>
 
+<br clear="right"/>
+
 ---
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### About Me
 
@@ -19,20 +25,17 @@ const aryan_das = {
     education: "B.Tech Electrical Engineering, NIT Silchar",
     location: "Silchar, Assam, India",
     role: "Engineering Student & Developer",
-
     currentlyLearning: [
         "Data Structures & Algorithms (C++)",
         "Artificial Intelligence & Machine Learning",
-        "Full Stack Web Development",
+        "Full-Stack Web Development",
         "Software Engineering Principles"
     ],
-
-    gainingExpertiseIn: [
+    gaining_expertise_on: [
         "Machine Learning",
         "Data Science",
         "Full Stack Development"
     ],
-
     interests: [
         "Artificial Intelligence",
         "Generative AI",
@@ -44,7 +47,7 @@ const aryan_das = {
 };
 ```
 
-<br clear="all"/>
+<br clear="right"/>
 
 ---
 
@@ -63,12 +66,10 @@ const aryan_das = {
 **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-Learn
 
 **Current Focus:**
-
 - Data Structures & Algorithms in C++
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- Software Engineering
-- Open Source Development
+- Learning AI/ML fundamentals
+- Building full-stack web applications
+- Strengthening programming foundations
 
 **Areas of Interest:** Artificial Intelligence, Generative AI, Data Science, Full Stack Development
 
@@ -78,13 +79,13 @@ const aryan_das = {
 
 <div align="center">
 
-<a href="https://aryandas079.github.io/my_website/"><img src="https://skillicons.dev/icons?i=githubpages" width="50" height="50" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/iam_aryandas/"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/iam-aryandas"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" /></a>
-<a href="https://x.com/iam_aryandas"><img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="X" /></a>
-<a href="https://discord.com/users/iam_aryandas"><img src="https://skillicons.dev/icons?i=discord" width="50" height="50" alt="Discord" /></a>
-<a href="https://orcid.org/0009-0009-9012-4034"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="50" height="50" alt="ORCID" /></a>
-<a href="mailto:dasaryan715@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" /></a>
+<a href="https://aryandas079.github.io/my_website/"><img src="https://img.icons8.com/fluency/96/domain.png" width="48" height="48" alt="Portfolio" /></a>
+<a href="https://www.instagram.com/iam_aryandas/"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/iam-aryandas"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
+<a href="https://x.com/iam_aryandas"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X" /></a>
+<a href="https://discord.com/users/iam_aryandas"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" /></a>
+<a href="https://orcid.org/0009-0009-9012-4034"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="48" height="48" alt="ORCID" /></a>
+<a href="mailto:dasaryan715@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /></a>
 
 </div>
 
@@ -94,45 +95,84 @@ const aryan_das = {
 
 <div align="center">
 
-#### Programming Languages
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,kotlin&theme=dark" alt="Programming Languages" />
-
-#### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend Development" />
-
-#### Backend Development & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Backend Development" />
-
-#### Artificial Intelligence & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" alt="Python and Scikit-Learn" />
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" title="NumPy" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" title="Pandas" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" title="Matplotlib" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" title="Seaborn" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="50" height="50" alt="SciPy" title="SciPy" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" title="Jupyter" />
+**Programming Languages**
 
 <br/>
 
-NumPy · Pandas · Matplotlib · Seaborn · SciPy · Jupyter
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,kotlin&theme=dark&perline=7" alt="Programming Languages" />
 
-#### Desktop & Application Development
+</td>
+<td width="50%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,kotlin&theme=dark" alt="Application Development" />
+**Web Development**
 
-#### Engineering & Simulation
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express&theme=dark&perline=7" alt="Web Development" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+**Python Libraries & Machine Learning**
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" title="Matplotlib" />
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn" title="Seaborn" />
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="42" height="42" alt="SciPy" title="SciPy" />
+<img src="https://skillicons.dev/icons?i=sklearn" width="42" height="42" alt="Scikit-Learn" title="Scikit-Learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" title="Jupyter" />
+
+</td>
+<td align="center" valign="top">
+
+**Database, Tools & IDEs**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,visualstudio,idea,clion&theme=dark&perline=7" alt="Database and Development Tools" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+**Design & Creative Software**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ps,pr,figma&theme=dark" height="48" alt="Photoshop, Premiere Pro and Figma" />
+<img src="https://img.icons8.com/color/96/adobe-lightroom.png" width="48" height="48" alt="Lightroom" title="Lightroom" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" title="Canva" />
+
+</td>
+<td align="center" valign="top">
+
+**Platforms & Operating Systems**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell,dotnet&theme=dark&perline=6" alt="Platforms and Operating Systems" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+**Engineering & Simulation**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" />
 
@@ -140,21 +180,18 @@ NumPy · Pandas · Matplotlib · Seaborn · SciPy · Jupyter
 
 MATLAB · Simulink · LTspice · AutoCAD
 
-#### Development Tools & IDEs
+</td>
+<td align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,clion&theme=dark" alt="Development Tools" />
+**Game Development**
 
-#### Operating Systems & Shells
+<br/>
 
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell&theme=dark" alt="Operating Systems and Shells" />
+<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Unreal Engine and Unity" />
 
-#### UI/UX & Creative Design
-
-<img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" alt="Creative Design" />
-
-#### Game Development
-
-<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Game Development" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -164,25 +201,11 @@ MATLAB · Simulink · LTspice · AutoCAD
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&cache_seconds=1800" alt="GitHub Statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=aryandas079&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&cache_seconds=1800" alt="Aryan's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=aryandas079&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="Aryan's GitHub Streak" />
 
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&cache_seconds=1800" alt="Most Used Languages" />
-
-</div>
-
----
-
-### GitHub Achievements
-
-<div align="center">
-
-![GitHub Followers](https://img.shields.io/github/followers/aryandas079?style=for-the-badge&color=F85D7F&labelColor=0D1117&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/aryandas079?style=for-the-badge&color=F85D7F&labelColor=0D1117&logo=github)
-
-[View GitHub Achievements](https://github.com/aryandas079?tab=achievements)
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aryandas079&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&cache_seconds=1800" alt="Aryan's Top Languages" />
+<img width="49%" src="https://github-profile-trophies.vercel.app/?username=aryandas079&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3" alt="Aryan's GitHub Trophies" />
 
 </div>
 
@@ -192,9 +215,14 @@ MATLAB · Simulink · LTspice · AutoCAD
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryandas079&theme=radical" alt="GitHub Contribution Activity" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryandas079&theme=radical" alt="Aryan's GitHub Contribution Activity" />
 
 </div>
+
+<!--
+Restore the contribution snake here once its SVG
+has been generated and stored in the repository.
+-->
 
 ---
 
@@ -202,7 +230,7 @@ MATLAB · Simulink · LTspice · AutoCAD
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -210,15 +238,9 @@ MATLAB · Simulink · LTspice · AutoCAD
 
 <div align="center">
 
-**"The only way to do great work is to love what you do."**
+**"The only way to do great work is to love what you do." - Steve Jobs**
 
-*Steve Jobs*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=aryandas079&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=aryandas079&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 **From [aryandas079](https://github.com/aryandas079)**
 
